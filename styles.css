@@ -1,0 +1,10 @@
+
+.jumbotron {
+  background-image: url(./imgs/header.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.row {
+  padding-top: 120px;
+}
